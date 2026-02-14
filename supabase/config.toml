@@ -1,0 +1,7 @@
+project_id = "lggdjwzxbdxjuascqsvw"
+
+[functions.api]
+verify_jwt = false
+
+[functions.daily-roi]
+verify_jwt = false
